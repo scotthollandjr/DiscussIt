@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1072639774959",
+    "firebase_url": "https://disscussit-a830e.firebaseio.com",
+    "project_id": "disscussit-a830e",
+    "storage_bucket": "disscussit-a830e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072639774959:android:4897139c86290ebb",
+        "android_client_info": {
+          "package_name": "epicodus.com.discussit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072639774959-1pls078co30qit2qjnnfghnooc360m7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epicodus.discussit",
+            "certificate_hash": "D4E570139ED517BA631580D597C874D6DF174CED"
+          }
+        },
+        {
+          "client_id": "1072639774959-5eieaf6e75hhk3vqkcftf0sog8pgc94l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Cox4mJiw_ZNrYkTpM9yr8MBpBeNLmRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072639774959-5eieaf6e75hhk3vqkcftf0sog8pgc94l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
